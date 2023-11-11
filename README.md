@@ -20,3 +20,5 @@
     @tailwind utilities;
 
 8)  clean up: delete app.css, public/vite.svg, assets/react.svg
+9)  create pages
+10) npm i react-router-dom to enable routing functionality
